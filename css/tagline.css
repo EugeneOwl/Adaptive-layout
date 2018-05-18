@@ -1,0 +1,23 @@
+.tagline {
+    width: 100%; 
+    display: flex;
+    flex-flow: row wrap;  
+}
+
+.tagline__text {
+    font-size: 30px;
+    color: #9282a0;
+    background-color: #27212c;
+    padding: 10% 0 10% 10%;
+    flex: 5 1;
+}
+
+.tagline__link {
+    background-color: #bc3183;
+    padding: 10% 0 0 10%;
+    flex: 1 1;
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Quicksand';    
+}

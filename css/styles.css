@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500|Quicksand:700');
+body {
+    margin: 0;
+    background-color: gray;
+}
+
+main {
+    max-width: 1024px;
+    min-width: 320px;
+    margin: auto;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}

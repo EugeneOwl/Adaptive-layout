@@ -1,0 +1,39 @@
+.banner {
+    margin: auto;
+    width: 100%;
+    background: linear-gradient(to bottom right, #19b4c6,#0b9fb5,#078aa4); 
+    display: flex;
+    flex-flow: column wrap;        
+}
+
+.banner__item1 {
+    display: flex;
+    flex-flow: column wrap;  
+    padding: 19% 0 0 10%;
+    font-size: 60px;
+    color: white;  
+}
+
+.banner__item2 {
+    display: flex;  
+    flex-flow: row wrap;  
+    padding: 4% 0 14% 10%;
+}
+
+.banner__url {  
+    flex: 1 1 auto;   
+     font-size: 40px;  
+   color: #a6d4de;
+}
+.banner__link {
+    flex: 1 1 auto;     
+    color: white;
+    font-size: 40px;
+    font-family: 'Quicksand';   
+}
+
+
+
+    
+    
+
